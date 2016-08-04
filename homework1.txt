@@ -21,9 +21,9 @@
 
 			--> open the code  of file with merge conflict
 
-			--> remove <<<<<<<<<head 
-			remove =============
-			remove >>>>>>>>>>>> number
+			--> remove head 
+			remove 
+			remove  number
 
 			--> STage and commit
 
