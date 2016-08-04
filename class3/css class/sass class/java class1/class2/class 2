@@ -1,0 +1,46 @@
+java script
+
+Java script is an interpreted language it does not need to be compiled
+
+C datatypes?
+
+     int
+     float
+     double
+     short
+     long
+     char
+     boolean
+     array
+
+ Java script
+
+     undefined
+     number
+     boolean
+     sting
+     object
+         null
+         array
+      function
+
+
+ declaring
+
+
+ home work-10
+
+ 1) understand java script data types?
+ 2) diff between null and undefined?
+ 3) == and == in java script
+ 4) how to include java script into web pages?
+ 5) why do we need to use the javascript?
+ 6)different types of including java script
+ 7)best practices aas well in java script
+ 8)dom
+ 9)understand what is DOM manipulation?
+ 10)operational precendeces
+ 11)truthy values
+ 12)falsy values?
+ 13)&& and 
+   logical and 
